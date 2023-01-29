@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kurniawan R Purnama a.k.a Niwa</h1>
+<h1 align="center">Hi 👋, I'm Kurniawan a.k.a Niwa</h1>
 <h3 align="center">undergraduate computer science student.</h3>
 
 ----
