@@ -2,7 +2,7 @@
 <h3 align="center">undergraduate computer science student.</h3>
 
 ----
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **any project**
 
