@@ -1,4 +1,4 @@
-Hello fellas... 
+Don't rush the process, **Great Things** take time
 
 <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
