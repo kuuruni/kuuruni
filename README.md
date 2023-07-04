@@ -20,3 +20,6 @@ Don't rush the process, **Great Things** take time
 ---
         
 </details>
+
+---
+<img width=150 src="https://media.tenor.com/ldDoV7iwmkgAAAAi/kurukuru-kururing.gif" />
