@@ -1,5 +1,8 @@
-### Hello There...
+### 👋 Hello There...
 > Z = Z^2 + C
+
+### 💡 My Favorite Quote
+> "My life seemed to be a series of events and accidents. Yet when I look back, i see a pattern." -Benoit Mandelbrot
 
 ### ⚙️ &nbsp;GitHub Analytics
 
