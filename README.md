@@ -1,5 +1,5 @@
 ### Hello There...
-> I'm a fanatic of science
+> Z = Z^2 + C
 
 ### ⚙️ &nbsp;GitHub Analytics
 
