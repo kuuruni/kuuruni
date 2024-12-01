@@ -1,5 +1,9 @@
 # 空月
 
+```bash
+$ curl -s https://github.com/imniwa.gpg | gpg --import
+```
+
 Code in production be like
 
 ![](https://media.tenor.com/j_DUeuoAnXgAAAAM/piano-piano-on-fire.gif)
