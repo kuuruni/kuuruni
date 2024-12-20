@@ -15,7 +15,7 @@ jobs:
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
-          CODE_LANG: javascript
+          CODE_LANG: md
           LANG_COUNT: 4
           SHOW_TIME: true
           SHOW_TOTAL: true
