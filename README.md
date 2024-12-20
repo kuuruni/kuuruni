@@ -4,7 +4,7 @@
 $ curl -s https://github.com/imniwa.gpg | gpg --import
 ```
 
----
+# Weekly Report
 
 <!--START_SECTION:waka-->
 
