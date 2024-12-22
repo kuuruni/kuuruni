@@ -8,7 +8,7 @@ $ curl -s https://github.com/imniwa.gpg | gpg --import
 
 <!--START_SECTION:waka-->
 
-```javascript
+```md
 From: 12 December 2024 - To: 19 December 2024
 
 Total Time: 6 hrs 13 mins
