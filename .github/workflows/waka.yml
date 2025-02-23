@@ -17,6 +17,7 @@ jobs:
           TIME_RANGE: last_7_days
           CODE_LANG: md
           LANG_COUNT: 4
+          IGNORED_LANGUAGES: EJS YAML JSON HTML
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
